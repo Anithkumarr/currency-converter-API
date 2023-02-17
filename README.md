@@ -1,2 +1,2 @@
-# currency-covertor-API
+# currency-converter-API
 API using HTML CSS JS
